@@ -19,6 +19,6 @@ Our course consist of 3 moduls. I study basic syntaxis of C#.
 
 [![Alt text](//placehold.it/150x100)](https://itea.ua/wp-content/uploads/2015/04/c-1-min1.png)
 > ### Starting programme
-[![Alt text](//placehold.it/150x100)](https://itea.ua/wp-content/uploads/2015/04/c-1-min1.png))
+[![Alt text](//placehold.it/150x100)](https://images.ua.prom.st/738380869_w640_h640_ogurets.jpg)
 > ### Compilation
  [![Alt text](//placehold.it/150x100)]( [![Alt text](//placehold.it/150x100)](https://itea.ua/wp-content/uploads/2015/04/c-1-min1.png))))
