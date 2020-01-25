@@ -22,3 +22,8 @@ Our course consist of 3 moduls. I study basic syntaxis of C#.
 [![Alt text](//placehold.it/150x100)](https://images.ua.prom.st/738380869_w640_h640_ogurets.jpg)
 > ### Compilation
  [![Alt text](//placehold.it/150x100)]( [![Alt text](//placehold.it/150x100)](https://itea.ua/wp-content/uploads/2015/04/c-1-min1.png))))
+#**Домашнее задание**
+##Список основных команд для гита
+- git add
+> Команда git add добавляет содержимое рабочей директории в индекс (staging area) для последующего коммита. По     > умолчанию git commit использует лишь этот индекс, так что вы можете использовать git add для сборки слепка вашего  > следующего коммита.
+-
