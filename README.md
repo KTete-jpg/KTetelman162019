@@ -1,7 +1,7 @@
 # Describtion of C++ courses and my studying in UIT
 ### Short describtion
 
-![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/e2/e9/a6e2e95b-8ff3-1763-6c6d-f94f87feafc3/mza_5641122497518604677.jpg/268x0w.jpg)
+![](https://cdn.tproger.ru/wp-content/uploads/2018/05/cpp3-770x270.jpg)
 
 
 Our course consist of 3 moduls. I study basic syntaxis of C++.
@@ -60,11 +60,17 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 > Эта команда создаёт в текущей директории новую поддиректорию с именем .git, содержащую все необходимые файлы репозитория — структуру Git-репозитория. На этом этапе ваш проект ещё не находится под версионным контролем.
 - git-config 
 > Получить и установить репозиторий или глобальные параметры
-> Если вы хотите проверить используемую конфигурацию, можете использовать команду git config --list, чтобы показать все настройки,      > которые Git найдёт:
+> Если вы хотите проверить используемую конфигурацию, можете использовать команду git config --list, чтобы показать все настройки,      > которые Git найдёт
+ 
+> Авторизация:
 
-git config --global user.name="John Doe"
+- git config --global user.name="John Doe"
+> Ввод вашего логина
 
-git config --global user.email="johndoe@example.com"
+- git config --global user.email="johndoe@example.com"
+> Ввод вашей почты
+- git remote add
+> Добавить удаленный репозиторий
 
 2. Git commit into your repository
 - git status
