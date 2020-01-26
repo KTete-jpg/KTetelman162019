@@ -50,7 +50,7 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 - [Learn C++ with pleasure!](/https://code-live.ru/tag/cpp-manual/)
 - [Learn C++ with pleasure!](/https://ide.cs50.io/)
 
-#**That's all folks!**
+# **That's all folks!**
 
 # **Домашнее задание**
 
