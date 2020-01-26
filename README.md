@@ -3,14 +3,14 @@
 Our course consist of 3 moduls. I study basic syntaxis of C++.
 >#### **List of lessons**
 - Symple comands - *september*
-> lessons 1-3
-- Git - *october*
+> - lessons 1-3
+> Git - *october*
 > lesson 4
-- Functions -*october*
+> - Functions -*october*
 > lessons 5-6
-- If, for and while p- *november*
+> - If, for and while p- *november*
 > lessons 7-9
- - Do while - *december*
+> - Do while - *december*
 > lessons 9-10
 - Arrays - *december*
 > lessons 11-12
