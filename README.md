@@ -53,11 +53,17 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 > Если вы хотите проверить используемую конфигурацию, можете использовать команду git config --list, чтобы показать все настройки,      > которые Git найдёт:
 
 $ git config --list
+
 user.name=John Doe
+
 user.email=johndoe@example.com
+
 color.status=auto
+
 color.branch=auto
+
 color.interactive=auto
+
 color.diff=auto
 ...
 
