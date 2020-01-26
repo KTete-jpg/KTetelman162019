@@ -24,12 +24,6 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 > Test - *29.12.2019*
 
 
-***Useful links***
-- [Learn C++ with pleasure!](/https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
-- [Learn C++ with pleasure!](/https://code-live.ru/tag/cpp-manual/)
-- [Learn C++ with pleasure!](/https://ide.cs50.io/)
-
-
 > ### Starting programme
        #include <iostream>
        #include <cstdlib> // для system
@@ -50,6 +44,13 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 **запуск программы**
 
            ./имя_выходного_бинарника
+           
+***Useful links***
+- [Learn C++ with pleasure!](/https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
+- [Learn C++ with pleasure!](/https://code-live.ru/tag/cpp-manual/)
+- [Learn C++ with pleasure!](/https://ide.cs50.io/)
+
+#**That's all folks!**
 
 # **Домашнее задание**
 
