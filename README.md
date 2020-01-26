@@ -51,7 +51,19 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 # **Домашнее задание**
 
 ## Список основных команд для гита
-1. Git commit into your repository
+
+1. Configuing example
+- git init
+> Эта команда создаёт в текущей директории новую поддиректорию с именем .git, содержащую все необходимые файлы репозитория — структуру Git-репозитория. На этом этапе ваш проект ещё не находится под версионным контролем.
+- git-config 
+> Получить и установить репозиторий или глобальные параметры
+> Если вы хотите проверить используемую конфигурацию, можете использовать команду git config --list, чтобы показать все настройки,      > которые Git найдёт:
+
+git config --global user.name="John Doe"
+
+git config --global user.email="johndoe@example.com"
+
+2. Git commit into your repository
 - git status
 > Команда git status показывает состояния файлов в рабочей директории и индексе: какие файлы изменены, но не       > добавлены в индекс; какие ожидают коммита в индексе. Вдобавок к этому выводятся подсказки о том, как изменить     > состояние файлов.
 - git add
@@ -68,36 +80,6 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 > Если по какой-то причине вы хотите удалить удаленный репозиторий — вы сменили сервер или больше не используете определённое зеркало, или кто-то перестал вносить изменения — вы можете использовать git remote rm
 - git reset
 > Команда git reset, как можно догадаться из названия, используется в основном для отмены изменений. Она изменяет  > указатель HEAD и, опционально, состояние индекса. Также эта команда может изменить файлы в рабочей директории при > использовании параметра --hard, что может привести к потере наработок при неправильном использовании, так что    > убедитесь в серьёзности своих намерений прежде чем использовать его.
-
-2. Configuing example
-- git init
-> Эта команда создаёт в текущей директории новую поддиректорию с именем .git, содержащую все необходимые файлы репозитория — структуру Git-репозитория. На этом этапе ваш проект ещё не находится под версионным контролем.
-- git-config 
-> Получить и установить репозиторий или глобальные параметры
-> Если вы хотите проверить используемую конфигурацию, можете использовать команду git config --list, чтобы показать все настройки,      > которые Git найдёт:
-
-$ git config --list
-
-user.name=John Doe
-
-user.email=johndoe@example.com
-
-          git config [<file-option>] [--type = <type>] [--show-origin] [-z | --null] имя [значение [value_regex]]
-        git config [<file-option>] [ --type = <тип>] - значение имени дополнения
-        git config [<опция-файла>] [--type = <тип>] - значение имени места все [value_regex]
-        git config [<опция-файла>] [--type = <тип>] [--show-origin] [-z | --null] - получить имя [value_regex]
-        git config [<file-option>] [--type = <type>] [ --show-origin] [-z | --null] --get-all name [value_regex]
-        git config [<file-option>] [--type = <type>] [--show-origin] [- z | --null] [--name-only] --get-regexp name_regex [value_regex]
-        git config [<file-option>] [--type = <type>
-       ] [-z | --null] --get-urlmatch name URL git config[<опция-файла>] - имя-набора [value_regex]
-        git config [<опция-файла>] - имя-все-набора [value_regex]
-        git config [<опция-файла>] - имя-раздела old_name новое_имя
-        git config [<file-option>] - имя-раздела удаления
-        git config [<file-option>] [--show-origin] [-z | --null] [--name-only] -l | --list
-       git config [<file-option>] - get-color name [по умолчанию]
-       git config [<file-option>] --get-colorbool name [stdout-is-tty]
-       git config [<file-option >] -e | --редактировать
-
 
 [Источник](https://git-scm.com/book/ru/v2/Appendix-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 
