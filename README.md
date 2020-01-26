@@ -18,9 +18,9 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/e2/e9/a6e2e95b-8ff3-1763-6c6d-f94f87feafc3/mza_5641122497518604677.jpg/268x0w.jpg)
 > ### Starting programme
-![](https://image.winudf.com/v2/image/Y29tLmR1eS5jLmNwcC5jb21waWxlcl9zY3JlZW5fNF8xNTI5NjYyMDAzXzA2Mg/screen-4.jpg?h=355&fakeurl=1&type=.jpg)
+![](https://cdn.programiz.com/sites/tutorial2program/files/create-cpp-file.png)
 > ### Compilation
- ![] (https://code.visualstudio.com/assets/docs/languages/cpp/cpp-hero.png)
+ ![](https://code.visualstudio.com/assets/docs/languages/cpp/cpp-hero.png)
 
 # **Домашнее задание**
 
@@ -38,7 +38,7 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 - git reset
 > Команда git reset, как можно догадаться из названия, используется в основном для отмены изменений. Она изменяет  > указатель HEAD и, опционально, состояние индекса. Также эта команда может изменить файлы в рабочей директории при > использовании параметра --hard, что может привести к потере наработок при неправильном использовании, так что    > убедитесь в серьёзности своих намерений прежде чем использовать его.
 
-***Источник: https://git-scm.com/book/ru/v2/Appendix-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B***
+[Источник](https://git-scm.com/book/ru/v2/Appendix-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 
 ## **Команды для терминала**
 - ls : відобразити вміст папки (показати список файлів і папок)
