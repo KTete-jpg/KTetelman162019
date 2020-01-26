@@ -9,9 +9,9 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 - lessons 5-6
 > Functions -*october*
 - lessons 7-9
-> - If, for and while p- *november*
+>  If, for and while p- *november*
 - lessons 9-10
-> - Do while - *december*
+> Do while - *december*
 - lessons 11-12
 >  Arrays - *december*
 - lessons 13-14
