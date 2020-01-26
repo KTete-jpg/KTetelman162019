@@ -70,7 +70,7 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 - git config --global user.email="johndoe@example.com"
 > Ввод вашей почты
 - git remote add
-> Добавить удаленный репозиторий
+> Добавить удаленный репозиторий.Команда git remote add origin git@github.com:peter/first_app.git создает новый удаленный origin расположенный по адресу git@github.com:peter/first_app.git . Когда вы это сделаете, в ваших командах push вы можете нажать на origin а не набирать весь URL.
 
 2. Git commit into your repository
 - git status
