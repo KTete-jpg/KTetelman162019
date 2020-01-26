@@ -2,33 +2,45 @@
 ### Short describtion
 Our course consist of 3 moduls. I study basic syntaxis of C++.
 >#### **List of lessons**
-- Symple comands - *september*
-> - lessons 1-3
+ - lessons 1-3
+>  Symple comands - *september*
+-  lesson 4
 > Git - *october*
-> lesson 4
-> - Functions -*october*
-> lessons 5-6
+- lessons 5-6
+> Functions -*october*
+- lessons 7-9
 > - If, for and while p- *november*
-> lessons 7-9
+- lessons 9-10
 > - Do while - *december*
-> lessons 9-10
-- Arrays - *december*
-> lessons 11-12
-- 16,8,10,2-systems - *december*
-> lessons 13-14
-- Test - *29.12.2019*
-> lesson 15
+- lessons 11-12
+>  Arrays - *december*
+- lessons 13-14
+> 16,8,10,2-systems - *december*
+- lesson 15
+> Test - *29.12.2019*
+
 
 ***Useful links***
-- [Learn C++ with pleasure!](/https://cs11.pikabu.ru/post_img/2018/05/15/8/1526388622116866159.png)
-- [Learn C++ with pleasure!](/https://cs11.pikabu.ru/post_img/2018/05/15/8/1526388622116866159.png)
-- [Learn C++ with pleasure!](/https://cs11.pikabu.ru/post_img/2018/05/15/8/1526388622116866159.png)
+- [Learn C++ with pleasure!](/https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-Git)
+- [Learn C++ with pleasure!](/https://code-live.ru/tag/cpp-manual/)
+- [Learn C++ with pleasure!](/https://ide.cs50.io/)
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/e2/e9/a6e2e95b-8ff3-1763-6c6d-f94f87feafc3/mza_5641122497518604677.jpg/268x0w.jpg)
-> ### Starting programme
-![](https://cdn.programiz.com/sites/tutorial2program/files/create-cpp-file.png)
+ ### Starting programme
+       #include <iostream>
+       #include <cstdlib> // для system
+       using namespace std;
+
+       int main() 
+          { 
+             cout << "Hello, world!" << endl;
+             system("pause"); // Только для тех, у кого MS Visual Studio
+             return 0; 
+           } 
+
 > ### Compilation
- ![](https://code.visualstudio.com/assets/docs/languages/cpp/cpp-hero.png)
+           c++ имя_файла.cpp -o имя_выходного_бинарника # компиляция кода
+           ./имя_выходного_бинарника # запуск программы
 
 # **Домашнее задание**
 
