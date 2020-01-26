@@ -1,6 +1,9 @@
 # Describtion of C++ courses and my studying in UIT
 ### Short describtion
 
+![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/e2/e9/a6e2e95b-8ff3-1763-6c6d-f94f87feafc3/mza_5641122497518604677.jpg/268x0w.jpg)
+
+
 Our course consist of 3 moduls. I study basic syntaxis of C++.
 >#### **List of lessons**
  - lessons 1-3
@@ -26,7 +29,7 @@ Our course consist of 3 moduls. I study basic syntaxis of C++.
 - [Learn C++ with pleasure!](/https://code-live.ru/tag/cpp-manual/)
 - [Learn C++ with pleasure!](/https://ide.cs50.io/)
 
-![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a6/e2/e9/a6e2e95b-8ff3-1763-6c6d-f94f87feafc3/mza_5641122497518604677.jpg/268x0w.jpg)
+
 > ### Starting programme
        #include <iostream>
        #include <cstdlib> // для system
