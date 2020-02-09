@@ -1,0 +1,61 @@
+#include <iostream>
+#include <string>
+#include <cstdlib>
+#include <ctime>
+#include <ctime>
+#include "task.hpp"
+std::string getValueFromUser();
+int getNumberFromUser();
+
+int main (void) {
+
+
+
+    srand(time(NULL));
+    std::string name = getValueFromUser();
+    std::cout<<"Hello, "<<name<<std::endl;
+    int lengthstring = name.length();
+    std::cout<<"lengthstring is:"<<lengthstring<<std::endl;
+
+    int arr[lengthstring];
+    int S=0;
+
+    for (int i = 0; i<lengthstring; i++)
+    {
+        arr[i] = random();
+        std::cout<<arr[i]<<std::endl;
+    }
+
+    return 0;
+}
+long int random(){
+    return rand()%20;
+}
+
+/*   for (int i = 0; i<array; i++)
+    {
+      S+=arr[i];
+      std::cout<<"Sum is "<<arr[i]<<std::endl;
+    }
+    std::cout <<std::endl;
+    float average;
+    average = S / array;
+    std::cout << "average is " << average <<std:: endl;
+
+
+
+    return 0;
+}
+*/
+/*for (int i = 0; i < N; i++)
+    {
+        k++;
+        S += mass[i];
+        cout << mass[i] << "  ";
+    }
+    cout << endl;
+    average = S / k;
+    cout << "Serednie arifmetichne elementiv masivu = " << average << endl;
+
+    return 0;
+}*/
