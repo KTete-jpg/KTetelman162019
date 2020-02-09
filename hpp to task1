@@ -1,0 +1,12 @@
+std::string getValueFromUser () {
+    std::string name = "";
+    std::cout << "Enter your name: ";
+    std::cin >> name;
+
+}
+int getNumberFromUser () {
+    int x = 0;
+    std::cout << "Enter number"<<std::endl;
+    std::cin >> x;
+    return x;// пользователь задает числа массива
+}
